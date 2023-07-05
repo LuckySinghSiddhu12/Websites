@@ -1,0 +1,560 @@
+ *{
+  margin: 0px;
+  padding: 0px;
+}
+
+@media (min-width: 320px) and (max-width: 767px){
+.headtop {
+  text-align: center;
+  font-size: 10px;
+  height: 44px;
+}
+/* .nav-link{
+  color:red ;
+} */
+.addpara{
+  font-size: 6px;
+  margin-right: 151px;
+  text-align: center;
+  margin-bottom: -20px;
+}
+.nav {
+  margin-left: -60px;
+    font-size: 8px;
+}
+.birth{
+   border-radius: 1px;
+    margin: 0px;
+    margin-right: 0px;
+      margin-left: 128px;
+    font-size: 6px;
+    height: 13px;
+
+}
+.veteran{
+  border-radius: 1px;
+  margin: 0px;
+  margin-right: 7px;
+    margin-left: 128px;
+  font-size: 6px;
+  height: 13px;
+}
+.facebook{
+  font-size: 7px;
+}
+.instagram{
+  font-size: 7px;
+}
+.logoimg{
+  width: 182px;
+}
+  
+.ms-auto{
+  display: block;
+  margin: -65px;
+  padding: 11px;
+  font-size: 5px;
+
+}
+.nav-item{
+  margin-right: 44px;
+}
+.herobanner{
+  width: 300px;
+}
+.sliderImages{
+  width: 300px;
+}
+.imgban{
+  /* width: 465px; */
+  height: 365px;
+}
+.choice{
+  background-color: white;
+}
+#choicetext{
+ font-size: 69px;
+}
+#choicetext1{
+  color: black;
+}
+.chbox{
+  height: 500px;
+}
+.styleimg1{
+  
+    margin: 32px;
+}
+.hchoose{
+   
+ text-align: center;
+}
+.styleimg{
+  width: auto;
+  height: auto;
+}
+
+.stylist{
+  margin-top: 0px;
+  /* margin-top: 230px; */
+}
+#beautysec{
+  height: 773px
+
+  
+}
+#Mlbeauty{
+  font-size: 16px;
+  color: #383131;
+  margin-right: 83px;
+
+}
+#bookapp{
+  font-size: 13px;
+  text-align: center;
+  margin-right: 82px;
+  margin-top: 30px;
+}
+.cta{
+  font-size: 4px;
+}
+#buttons{
+  margin-right: 131px
+}
+#beautyimg{
+  height: 80px;
+  width: 300px;
+}
+/* #salono{
+  height: 600px;
+} */
+.local{
+  font-size: 27px;
+  margin-bottom: 11px;
+  margin-top: 54px;
+  margin-left: 64px;
+}
+.ticon{
+  font-size: 20px;
+  margin-top: 0px;
+  margin-right: 1px;
+  margin-left: 60px;
+}
+#salontime1{
+  margin-top: -17px;
+}
+#salonetime2{
+  font-size: 26px;
+  margin-top: -16px;
+  margin-left: 58px;
+}
+
+
+
+#location{
+  margin-left: 1px;
+  margin-top: -16px;
+}
+.salonright{
+  height: 300px;
+}
+#salonrightimg{
+  height: 300px;
+}
+.salonimg{
+  
+  margin-left: -76px;
+  margin-top: 37px;
+
+}
+#appicon{
+  font-size: 19px;
+}
+.findsal{
+  margin-top: 190px;
+}
+/* .findsalon{
+  margin-left: 3px;
+}
+.findcontent{
+  margin-left: 3px;
+} */
+.map{
+  margin-right: 64px;
+  padding: 27px;
+  margin-left: -94px;
+  width: 550px;
+  margin-bottom: 23px;
+}
+/* .footer{
+  background-color: black;
+}  */
+#ftlogo{
+  height: 101px;
+  margin-top: 25px
+}
+.logopara{
+  font-size: 20px;
+    margin-top: 18px
+}
+.copy{
+  font-size: 20px;
+    margin-top: -62px
+}
+.footer{
+  text-align: center;
+}
+.form button{
+  margin-right: 38px;
+}
+/* #navbarNav{
+  display: block;
+  font-size: 5px;
+} */
+}
+ 
+
+
+
+
+
+/* Css start */
+.header{
+  background-color: black;
+ }
+ #address{
+  color: white;
+  padding: 3px;
+  font-weight: 200;
+  margin-top: 8px;
+ }
+ .addpara{
+  color: white;
+   margin-top: -4px;
+    margin-left: 40px;
+ }
+ .nav{
+  margin-top: 2px;
+   margin-bottom: 8px;
+ }
+.birth{
+    border: 2px solid purple;
+    background-color: purple;
+    border-radius: 4px;
+    margin: 6px;
+    margin-right: 18px;
+    color: white;
+    margin-left: 128px;
+}
+.veteran{
+    border: 2px solid purple;
+    background-color: purple;
+    border-radius: 4px;
+    margin: 6px;
+    margin-right: 18px;
+    color: white;
+}
+.facebook{
+  margin: 2px;
+   padding: 6px; 
+   color: white;
+    margin-right: 18px;
+
+}
+.instagram{
+  margin: 2px;
+   padding: 6px; 
+   color: white; 
+   margin-right: 18px;
+}
+.navbar{
+    display: absolute;
+    text-align: right;
+    
+}
+.logoimg{
+  margin-left: 0px;
+
+  
+}
+.navbar a {
+    float: right;
+    display: block;
+    color: black;
+    text-align: center;
+}
+.nav-item{
+    padding: 6px;
+    margin: 6px;
+    font-weight: bold;
+}
+.nav-item:hover{
+  color:purple;
+}
+ ul {
+    list-style-type: none;
+  }
+  
+  
+  /*.slideone{
+    background-image: url(../images/herobanner.jpg);
+
+  }*/
+  .hero{
+    color: white;
+  }
+  .beauty{
+    color: purple;
+
+  }
+ 
+  .choice h3{
+    font-family: "Brush Script MT", cursive; 
+    color: rgb(227, 35, 227);
+    font-weight: 500;
+    font-size: 50px;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+  }
+  .choice h4{
+    margin: 0 0 10px;
+    font-size: 40px;
+    font-weight: 500;
+    text-align: center;
+  }
+  .choice h2{
+    margin: 0 0 10px;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+  }
+  /*.slideone{
+    background-image: url("..images/herobanner.jpg");
+  }*/
+.chbox{
+  padding: 60px;
+  
+  
+}
+.choice h5{
+  margin: 10px 0 20px;
+  font-weight: 700;
+}
+
+.hchoose{
+  padding-left: 80px;
+  color: black;
+  font-weight: bold;
+}
+.styleimg1{
+  height: 400px;
+   width: 300px;
+   transition: transform .1s;
+   /* overflow: hidden; 
+   transition: transform .5s ease; */
+
+}
+/* .chbox:hover
+{
+color: red;
+height: 200px;
+} */
+
+.stylish{
+  margin-bottom: 0;
+  
+}
+.stylist{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  
+}
+ .stylist h4{
+    font-weight: bold;
+    font-size: 35px;
+    margin: 0 0 10px;
+    
+}
+/* .imgcroc{
+  height: 400px;
+} */
+.styleimg{
+  padding-left: 0px;
+
+  
+}
+.salon{
+  height: 462px;
+   width:650px ;
+}
+.cta{
+  border: 2px solid purple;
+  background-color: purple;
+  color: white;
+  border-radius: 6px;
+  margin: 5px;
+  padding: 7px 20px;
+  text-decoration: none;
+  
+}
+
+.findsal h3{
+  text-align: center;
+  font-weight: bold;
+  margin: 0 0 10px;
+  margin-top: 30px;
+  font-size: 40px;
+}
+.findsal h6{
+  text-align: center;
+  justify-content: center;
+  font-weight: 500;
+  margin: 30px;
+  font-size: large;
+}
+.findsal h4{
+  margin-left: 48px;
+  font-size: 30px;
+  font-weight: 600;
+}
+.container{
+  max-width: 1616px;
+}
+.search input{
+  width: 60%;
+  border: 1px solid rgb(211, 203, 203);
+  padding: 10px 30px;
+
+}
+.search button{
+  background-color: #000;
+  color: #fff;
+  position: absolute;
+  padding: 8px;
+  width: 80px;
+}
+.address h5{
+  font-weight: 600;
+}
+.address h5 span{
+  font-weight: 400;
+  font-size: 15px;
+}
+.address p{
+  margin: 0 0 10px;
+  color: rgb(113, 107, 107);
+}
+.tbtns a.active{
+  background-color: black;
+  color: white;
+}
+.tbtns a{
+  display: inline-block;
+  padding: 10px 25px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.salonimg{
+  width: 620px;
+    height: 436px;
+}
+a{
+  color: black;
+}
+.tbtns a.active:hover{
+  background-color: purple;
+}
+.tbtns a:hover{
+  background-color: purple;
+  color: white;
+}
+/* .footer{
+  background-color: black;
+  color: white;
+  padding: 15px;
+  padding-top: 70px;
+  height: 450px;
+  
+  
+} */
+.logopara{
+  color: white;
+}
+.copy{
+  color:white ;
+}
+.stayinf{
+  color:white;
+}
+/* .email{
+  color:white ;
+} */
+  /* color: white; */
+/* }  */
+
+p{
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+.copy{
+  padding: 150px 0 0;
+}
+/* .footer h4{
+  font-weight: 140px;
+} */
+.form input{
+  width: 100%;
+  padding: 15px 0;
+  border: 1px solid #555;
+  border-width: 0 0 1px;
+  background: none;
+  color: #fff;
+}
+.form button{
+  position: absolute;
+  padding: 10px 20px;
+  right: 0;
+  border: none;
+  color: #fff;
+  background: none;
+  border: 1px solid purple;
+  background-color: purple;
+  
+}
+.footmenu li {
+  color:white;
+  padding: 5px;
+}
+.footaddress p{
+  padding: 0 0 20px;
+  color:white ;
+}
+.footsocial ul li{
+  color:white ;
+  font-size: 21px;
+  display: inline-block;
+  
+  
+}
+ .styleimg1:hover{
+  /* -ms-transform: scale(1); /* IE 9 */
+    /* -webkit-transform: scale(1);  */
+  transform: scale(1.1); 
+
+ }
+#beautyimg:hover{
+  /* -ms-transform: scale(1.5); 
+  -webkit-transform: scale(1.5);  */
+  transform: scale(1.1); 
+}
+#salonrightimg:hover{
+  transform: scale(1.1); 
+}
+
+
+
+
+
+
+
